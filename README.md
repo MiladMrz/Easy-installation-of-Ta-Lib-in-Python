@@ -29,8 +29,9 @@ If you cannot directly use the `$ pip install TA-Lib` you can use "whl" file ins
   - For more information visit https://blog.quantinsti.com/install-ta-lib-python/
   
   
-  **hope this will help and save your time...**
   
+  
+  **hope this will help and save your time...**
   **feel free to send `LTC` to my wallet `LW1Ydexa4yFPQgujZPiW5NBh21ntJcXocV` :)** 
   
   
