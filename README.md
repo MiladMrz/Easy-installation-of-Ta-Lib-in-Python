@@ -17,7 +17,7 @@ to solve this error there are two options:
   
   - You need to download Node.js from  https://nodejs.org/en/  (for exp: v12.18.3)
   - open `cmd` and run `npm install -g windows-build-tools` command. This will download all needed files and takes only few minutes.
-  - If didnt work try `npm install --global --production windows-build-tools@4.0.0`
+  - If it didn't work try `npm install --global --production windows-build-tools@4.0.0` or visit https://github.com/felixrieseberg/windows-build-tools/issues/152
 
 ## 2: error: Cannot find ta-lib library, installation may fail.
 
@@ -26,10 +26,11 @@ If you cannot directly use the `$ pip install TA-Lib` you can use "whl" file ins
   - The installation file can be downloaded from: https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib
   - After downloading make sure to place the file in the same path as your terminal indicates
   - Now use the pip install command with the file name of the downloaded file. (for exp: “TA_Lib-0.4.18-cp38-cp38-win32.whl”) The command would be `pip install TA_Lib-0.4.18-cp38-cp38-win32.whl`
+  - For more information visit https://blog.quantinsti.com/install-ta-lib-python/
   
   
-  hope this will help and save your time...
+  **hope this will help and save your time...**
   
-  feel free to send `LTC` to my wallet `LW1Ydexa4yFPQgujZPiW5NBh21ntJcXocV` 
+  **feel free to send `LTC` to my wallet `LW1Ydexa4yFPQgujZPiW5NBh21ntJcXocV` :)** 
   
   
