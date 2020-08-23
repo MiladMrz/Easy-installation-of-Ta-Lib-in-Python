@@ -2,7 +2,7 @@
 
 For normal installation please visit https://github.com/mrjbq7/ta-lib but if you already failed at those instructions you are in the right place
 
-**Ta_lib** take few hours of my time, therefore, I made this step by step guide. As far as I know there are two errors with Ta_lib installation...
+**Ta_lib** take few hours of my time, therefore, I made this step by step guide. As far as I know, there are two errors with Ta_lib installation...
 
 ## 1: error: Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build Tools"
 
@@ -22,6 +22,6 @@ to solve this error there are two options:
 
 If you cannot directly use the `$ pip install TA-Lib` you can use "whl" file installation
 
-  - Installation file can be downloaded from: https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib
-  - After downloading make sure to place the file in same path as your terminal indicates
+  - The installation file can be downloaded from: https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib
+  - After downloading make sure to place the file in the same path as your terminal indicates
   - Now use the pip install command with the file name of the downloaded file. (for exp: “TA_Lib-0.4.18-cp38-cp38-win32.whl”) The command would be `pip install TA_Lib-0.4.18-cp38-cp38-win32.whl`
