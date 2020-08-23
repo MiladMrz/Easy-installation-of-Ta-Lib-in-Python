@@ -32,6 +32,6 @@ If you cannot directly use the `$ pip install TA-Lib` you can use "whl" file ins
   
   
   
-  **feel free to send `LTC` to my wallet `LW1Ydexa4yFPQgujZPiW5NBh21ntJcXocV` :)** **hope this will help and save your time...**
+  **feel free to send `LTC` to `LW1Ydexa4yFPQgujZPiW5NBh21ntJcXocV` :)** **hope this will help and save your time...**
   
   
